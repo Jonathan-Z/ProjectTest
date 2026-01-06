@@ -24,7 +24,7 @@ repository: "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar: "profile.png"
+  avatar: "frog.jpg"
   name: "Critical Information"
   pronouns: # example: "she/her"
   bio: "The more cheese, the less cheese"
