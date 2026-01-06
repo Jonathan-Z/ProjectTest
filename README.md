@@ -1,3 +1,10 @@
+Did you know, every sixty seconds, a minute passes?
+
+Cheese has holes.
+The more cheese, the more holes.
+The more holes, the less cheese.
+Therefore, the more cheese, the less cheese.
+
 # Academic Pages
 **Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
 
